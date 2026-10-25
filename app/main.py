@@ -72,6 +72,8 @@ PRODUCTS = {
     "cs2": "CS2",
     "mega-chameleon": "Mega Chameleon",
     "war-dogs": "War Dogs",
+    "rust": "Rust",
+    "gta5-enhanced": "GTA 5 Enhanced",
 }
 
 
